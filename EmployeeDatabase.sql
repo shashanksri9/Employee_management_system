@@ -4,6 +4,9 @@ usernanme varchar(50),
 password varchar(50)
 );
 drop table employees;
+
+
+
 CREATE TABLE employees (
 	
     name VARCHAR(40),
